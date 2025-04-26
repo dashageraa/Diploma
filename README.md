@@ -43,7 +43,7 @@
 
 
 # Контакты | Contacts
-- [dasha_geraa](https://t.me/dasha_geraa) - Герасимова Дарья Александровна
+- [telegram](https://t.me/dasha_geraa) - Герасимова Дарья Александровна, автор исследования
 
 
 
