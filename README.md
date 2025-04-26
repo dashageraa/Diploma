@@ -42,8 +42,10 @@
 ----------
 
 # Контакты | Contacts
-- `Герасимова Дарья Александровна  <https://t.me/dasha_geraa>`__ - автор работы
-- [dasha_geraa]((https://t.me/dasha_geraa)) Герасимова Дарья Александровна 
+- `[dasha_geraa]((https://t.me/dasha_geraa))` Герасимова Дарья Александровна
+
+## Контакты
+- [dasha_geraa](https://t.me/dasha_geraa) - Герасимова Дарья Александровна
 
 
 
