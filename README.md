@@ -39,6 +39,6 @@
 ----------
 
 # Контакты | Contacts
-- [dasha_geraa](https://t.me/@asha_geraa) Герасимова Дарья Александровна 
+- [dasha_geraa]([https://t.me/@asha_geraa](https://t.me/dasha_geraa)) Герасимова Дарья Александровна 
 
 
